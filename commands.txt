@@ -1,0 +1,5 @@
+ip arp inspection vlan1
+interface gi 1/1/1
+ip arp inspection trust
+end
+
